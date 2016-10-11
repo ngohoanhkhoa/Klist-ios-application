@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E68F9BC6-6C60-4B50-B3F2-42C7A8E2A404</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Klist</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>504FF9C922BF1A3C5A09C168B5E57513199D3882</key>
+		<string>https://bitbucket.org/nduylinh/klistios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Klist.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>504FF9C922BF1A3C5A09C168B5E57513199D3882</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/nduylinh/klistios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>504FF9C922BF1A3C5A09C168B5E57513199D3882</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>504FF9C922BF1A3C5A09C168B5E57513199D3882</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Klist</string>
+		</dict>
+	</array>
+</dict>
+</plist>

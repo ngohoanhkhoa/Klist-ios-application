@@ -1,0 +1,4 @@
+github "0xced/XCDYouTubeKit" ~> 2.2.0
+github "realm/realm-cocoa" ~> 0.93.2
+github "robb/Cartography"
+github "Alamofire/Alamofire" >= 1.2
